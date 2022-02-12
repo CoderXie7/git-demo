@@ -14,4 +14,4 @@ hello xiaoming! hello git
 hello xiaoming! hello git
 hello xiaoming! hello git
 hello xiaoming! hello git
-hello xiaoming! hello git
+hello xiaoming! hello git hot-fix test
