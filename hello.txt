@@ -13,8 +13,6 @@ hello xiaoming! hello git
 hello xiaoming! hello git
 hello xiaoming! hello git
 hello xiaoming! hello git
-<<<<<<< HEAD
 hello xiaoming! hello git master test
-=======
 hello xiaoming! hello git hot-fix test
->>>>>>> hot-fix
+11111111111111111111111111111111111111
